@@ -1,0 +1,100 @@
+ 
+ 
+ [{  
+    "question":"Toutes les structures suivantes existent dans les plantes vertes, sauf :",
+    "choice1":"tiges",
+    "choice2":"des fruits ",
+    "choice3":"muscles ",
+    "choice4":"feuilles",
+    "answer":3
+    }
+    ,{
+        "question":"Les plantes et les humains ont besoin de __________ pour survivre",
+        "choice1":"un abri",
+        "choice2":"une forêt",
+        "choice3":"sol",
+        "choice4":"air",
+        "answer":3
+        
+    
+    
+    }
+    ,{
+        "question":"Les plantes vertes peuvent absorber __________ du sol.",
+        "choice1":"l'oxygène",
+        "choice2":"nutriments",
+        "choice3":"l'air",
+        "choice4":"nourriture",
+        "answer":4
+    },{
+        "question":"En l’absence de __________, les plantes mourront",
+        "choice1":"un abri",
+        "choice2":"la nourriture",
+        "choice3":"sol",
+        "choice4":"lumière du soleil",
+        "answer":4
+    },{
+        "question":"Si vous vous promenez dans un jardin, vous pouvez observer toutes les parties de la plante sauf :",
+        "choice1":"laisse",
+        "choice2":"tiges",
+        "choice3":"racines",
+        "choice4":"fleurs",
+        "answer":4
+    },{
+        "question":"Les plantes vertes peuvent produire leur propre nourriture grâce au processus __________.",
+        "choice1":"la respiration",
+        "choice2":"digestion ",
+        "choice3":"la photosynthèse",
+        "choice4":"pensée",
+        "answer":4
+    },{
+        "question":"La fabrication de l’engrais végétal a lieu à __________ de l’usine.",
+        "choice1":"les feuilles",
+        "choice2":"les racines",
+        "choice3":"la tige",
+        "choice4":"toutes les parties",
+        "answer":4
+    },{
+        "question":"Les plantes vertes et les animaux sont semblables dans les domaines suivants :",
+        "choice1":"taille",
+        "choice2":"structure",
+        "choice3":"croissance",
+        "choice4":" mouvement",
+        "answer":4
+    },{
+        "question":"__________ et __________ font partie des besoins fondamentaux de tous les organismes vivants. ",
+        "choice1":"Sol - air",
+        "choice2":"Eau - sol",
+        "choice3":"Air - eau",
+        "choice4":"Lumière du soleil - abri",
+        "answer":4
+    },{
+        "question":"Les animaux ont besoin de toutes les choses suivantes pour grandir et survivre, sauf : a. l'eau ",
+        "choice1":"sol",
+        "choice2":"abri",
+        "choice3":"nourriture",
+        "choice4":"l'eau",
+        "answer":4
+    },{
+        "question":"Les plantes vertes peuvent survivre et croître sans :",
+        "choice1":"l'eau",
+        "choice2":"le Soleil",
+        "choice3":"l'air",
+        "choice4":"sol",
+        "answer":4
+    },{
+        "question":"Le __________ de la plante contribue à la transmission des nutriments et de l’eau aux feuilles de la plante.",
+        "choice1":"tige",
+        "choice2":"racine",
+        "choice3":"fleur",
+        "choice4":"fruit",
+        "answer":4
+    },{
+        "question":"La fonction principale des racines est :",
+        "choice1":" absorber la lumière du soleil",
+        "choice2":"produire du sucre ",
+        "choice3":"absorber le dioxyde de carbone gazeux ",
+        "choice4":" absorber l'eau et les nutriments",
+        "answer":4
+    }
+ ]
